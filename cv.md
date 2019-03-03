@@ -6,16 +6,16 @@
 #### Areas of Expertise
 ***
 
-Processes\Methodologies:	** ITIL, Agile, TDD  **
-Programming languages:  ** Java, JavaScript  **
-Database:  ** MongoDB, MySql  **
-Build tools: ** Maven  **
-Testing: ** JUnit, Selenium  **
+Processes\Methodologies:	**ITIL, Agile, TDD**
+Programming languages:  **Java, JavaScript**
+Database:  **MongoDB, MySql**
+Build tools: **Maven**
+Testing: **JUnit, Selenium**
 
 Languages:   
-* ** Belarussian, Russian ** - native  
-* ** English ** – B2 (certified by Streamline language school)  
-* ** Polish **- B1 (certified by language school)  
+* **Belarussian, Russian** - native  
+* **English** – B2 (certified by Streamline language school)  
+* **Polish**- B1 (certified by language school)  
 
 #### Education & Certificates
 ***
@@ -23,17 +23,17 @@ Languages:
 |Year  | Course|
 -------|-------------------------------------------------------------------
 
-|2013 | BSUR - Major 'Information technologies and networks in economics' |
+2013 | BSUR - Major 'Information technologies and networks in economics' 
 
-|2015 | BSUIR - Master 'Computer science' |
+2015 | BSUIR - Master 'Computer science' 
 
-|2015 | ITIL v3 Foundation certificate |
+2015 | ITIL v3 Foundation certificate 
 
-|2016 | Coursera - Programming mobile applications for Android handheld systems (with Statement of Accomplishment)|
+2016 | Coursera - Programming mobile applications for Android handheld systems (with Statement of Accomplishment)
 
-|2016 | MongoDB for DBAs & MongoDB for Java Developers (with Statement of Accomplishment)|
+2016 | MongoDB for DBAs & MongoDB for Java Developers (with Statement of Accomplishment)
 
-|2018 | Android Academy Minsk - Android Fundamentals|
+2018 | Android Academy Minsk - Android Fundamentals
 
 #### Work Experience
 ***
