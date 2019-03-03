@@ -1,2 +1,2 @@
 # rsschool-2019Q1-cv
-Mastering Markdown
+https://mradyuk.github.io/rsschool-2019Q1-cv/cv
