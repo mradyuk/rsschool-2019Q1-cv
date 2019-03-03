@@ -7,10 +7,15 @@
 ***
 
 Processes\Methodologies:	**ITIL, Agile, TDD**
+
 Programming languages:  **Java, JavaScript**
+
 Database:  **MongoDB, MySql**
+
 Build tools: **Maven**
+
 Testing: **JUnit, Selenium**
+
 
 Languages:   
 * **Belarussian, Russian** - native  
