@@ -25,26 +25,15 @@ Languages:
 #### Education & Certificates
 ***
 
-|Year  | Course|
--------|-------------------------------------------------------------------
+| Year  | Course                                                                                             |
+| ------| ---------------------------------------------------------------------------------------------------|
+| 2013  | BSUIR - Major 'Information technologies and networks in economics'                                 |
+| 2015  | BSUIR - Master 'Computer science'                                                                  |
+| 2015  | ITIL v3 Foundation certificate                                                                     |
+| 2016  | Coursera - Programming mobile applications for Android handheld (with Statement of Accomplishment) |
+| 2016  | MongoDB for DBAs & MongoDB for Java Developers (with Statement of Accomplishment)                  |
+| 2016  | Android Academy Minsk - Android Fundamentals                                                       |
 
-2013   | BSUR - Major 'Information technologies and networks in economics' 
--------|-------------------------------------------------------------------
-
-2015   | BSUIR - Master 'Computer science' 
--------|-------------------------------------------------------------------
-
-2015 | ITIL v3 Foundation certificate 
--------|-------------------------------------------------------------------
-
-2016   | Coursera - Programming mobile applications for Android handheld systems (with Statement of Accomplishment)
--------|-------------------------------------------------------------------
-
-2016   | MongoDB for DBAs & MongoDB for Java Developers (with Statement of Accomplishment)
--------|-------------------------------------------------------------------
-
-2018   | Android Academy Minsk - Android Fundamentals
--------|-------------------------------------------------------------------
 
 #### Work Experience
 ***
